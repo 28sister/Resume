@@ -4,7 +4,7 @@ html,body,div,span,h1,h2,h3,img,a,form,input,select,option,ul,ol,li,dl,dt,dd,i,p
 	margin: 0;
 	padding: 0;
 }
-body{color:rgba(0, 0, 0, 0.87);font:14px/20px ""Microsoft YaHei","Lato","Helvetica Neue",Helvetica,Arial,sans-serif";}
+body{color:rgba(0, 0, 0, 0.87);font:14px/20px Tahoma,Arial,Roboto,”Droid Sans”,”Helvetica Neue”,”Droid Sans Fallback”,”Heiti SC”,”Hiragino Sans GB”,Simsun,sans-self;}
 ol,ul,dl,dt,dd,li{list-style:none;}
 a{color:#323232;text-decoration:none;}
 a:hover{color:#e60612;}
@@ -27,8 +27,8 @@ s{ text-decoration:none;}
 
 .box{width:100%;border-top:1px solid #fff;}
 .tab_menu{overflow:hidden;background:#22c3aa;height:42px;}
-.tab_menu li{float:left;width:33.333%;height:40px;line-height:40px;color:rgba(255,255,255,0.7);text-align:center;cursor:pointer;font-weight:500;font-size:14px;text-transform:uppercase; font-family:""Microsoft YaHei","Lato","Helvetica Neue",Helvetica,Arial,sans-serif";}
-.tab_menu li.current{color:#fff;border-bottom:2px solid #FF4081;color:#fff;}
+.tab_menu li{float:left;width:33.333%;height:40px;line-height:40px;color:rgba(255,255,255,0.7);text-align:center;cursor:pointer;font-weight:500;font-size:14px;text-transform:uppercase;}
+.tab_menu li.current{color:#fff;border-bottom:2px solid #FF4081;}
 .tab_menu li a{color:#fff;}
 .tab_menu li.current a{color:#333;}
 .tab_box > div{margin:0 auto;}
