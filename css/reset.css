@@ -27,7 +27,7 @@ s{ text-decoration:none;}
 
 .box{width:100%;border-top:1px solid #fff;}
 .tab_menu{overflow:hidden;background:#22c3aa;height:42px;}
-.tab_menu li{float:left;width:33.333%;height:40px;line-height:40px;color:rgba(255,255,255,0.7);text-align:center;cursor:pointer;font-weight:500;font-size:14px;text-transform:uppercase;}
+.tab_menu li{float:left;width:33.333%;height:40px;line-height:40px;color:rgba(255,255,255,0.7);text-align:center;cursor:pointer;font-weight:500;font-size:14px;text-transform:uppercase; font-family:""Microsoft YaHei","Lato","Helvetica Neue",Helvetica,Arial,sans-serif";}
 .tab_menu li.current{color:#fff;border-bottom:2px solid #FF4081;color:#fff;}
 .tab_menu li a{color:#fff;}
 .tab_menu li.current a{color:#333;}
